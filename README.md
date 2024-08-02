@@ -15,7 +15,7 @@
 |---|---|---|  
 |<img src="https://jimhillr.com/images/luggage.webp" alt="suitcase" width="40"/>| Luggage | Data does not belong to corporations. It belongs to us. This project hopes to provide an open-source interface for making your data safe, secure and portable.|
 |<img src="https://jimhillr.com/images/gumby.svg" alt="gumby logo" width="40"/>|Gumby|Data-driven health and fitness for everyone.|
-|<img src="https://jimhillr.com/images/passion-fruit.png" alt="cartoon fruit" width="40"/>|Passion Fruit|When encumbered by too many dreams and goals, a platform of tools to accelerate many ideas at once is needed.|
+|<img src="https://jimhillr.com/images/passion-fruit.webp" alt="cartoon fruit" width="40"/>|Passion Fruit|When encumbered by too many dreams and goals, a platform of tools to accelerate many ideas at once is needed.|
 |<img src="https://jimhillr.com/images/blue-eel.webp" alt="cartoon eel" width="40"/>|Blue Eel|Literacy is the single most important outcome in a child's life. Let's not forget about those who struggle.|
 |<img src="https://jimhillr.com/images/fire.webp" alt="money on fire" width="40"/>|Fire|Financial planning tools for everyone so they can better understand the consequences of their decisions.|
 
